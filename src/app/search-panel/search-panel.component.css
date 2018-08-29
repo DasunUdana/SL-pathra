@@ -1,0 +1,29 @@
+.search-container {
+  height: 15%;
+  width: 90%;
+  padding: 1% 5%;
+  background-color: rgba(129, 129, 130, 0);
+  opacity: 0.7;
+  top: 18%;
+  margin: 0 5%;
+}
+
+.search-bar{
+  padding: 2%;
+  opacity: 0.7;
+  border-radius: 35px;
+  border: 2px black solid;
+  font-size: 155%;
+}
+
+:focus {
+  outline-color: rgba(255, 255, 255, 0);
+}
+
+.search-icon {
+  color: black;
+  position: absolute;
+  right: 8%;
+  top: 25%;
+  font-size: 195%;
+}

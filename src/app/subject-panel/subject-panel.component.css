@@ -1,0 +1,19 @@
+.table {
+  display: table;
+  width: 89%;
+  top: 44%;
+}
+
+.table-row {
+  display: table-row;
+}
+
+.table-cell {
+  text-align: center;
+  display: table-cell;
+  padding: 3% 0;
+}
+
+.subject-button {
+  font-size: 130%;
+}
